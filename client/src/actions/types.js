@@ -1,0 +1,6 @@
+export default {
+    USER_LOGIN: "USER_LOGIN",
+    USER_LOGOUT: "USER_LOGOUT",
+    FETCH_USER: "FETCH_USER",
+    GET_PRODUCTS: "GET_PRODUCTS"
+};
